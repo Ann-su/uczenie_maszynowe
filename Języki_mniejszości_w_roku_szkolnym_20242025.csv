@@ -1,0 +1,79 @@
+idTerytWojewodztwo,Wojewodztwo,idTypPodmiotu,Typ podmiotu,idJezykMniejszosci,Jezyk mniejszosci,liczba uczniów,liczba podmiotów
+2,DOLNOŚLĄSKIE,1,Przedszkole,11,ukraiński,40,1
+2,DOLNOŚLĄSKIE,3,Szkoła podstawowa,4,hebrajski,106,1
+2,DOLNOŚLĄSKIE,3,Szkoła podstawowa,7,łemkowski,84,14
+2,DOLNOŚLĄSKIE,3,Szkoła podstawowa,8,niemiecki,175,3
+2,DOLNOŚLĄSKIE,3,Szkoła podstawowa,11,ukraiński,38,4
+2,DOLNOŚLĄSKIE,14,Liceum ogólnokształcące,4,hebrajski,40,1
+2,DOLNOŚLĄSKIE,14,Liceum ogólnokształcące,11,ukraiński,4,1
+4,KUJAWSKO-POMORSKIE,1,Przedszkole,6,litewski,183,1
+4,KUJAWSKO-POMORSKIE,3,Szkoła podstawowa,8,niemiecki,27,1
+6,LUBELSKIE,3,Szkoła podstawowa,11,ukraiński,21,3
+8,LUBUSKIE,1,Przedszkole,11,ukraiński,25,2
+8,LUBUSKIE,3,Szkoła podstawowa,7,łemkowski,16,3
+8,LUBUSKIE,3,Szkoła podstawowa,8,niemiecki,551,8
+8,LUBUSKIE,3,Szkoła podstawowa,11,ukraiński,14,3
+12,MAŁOPOLSKIE,1,Przedszkole,7,łemkowski,12,2
+12,MAŁOPOLSKIE,3,Szkoła podstawowa,7,łemkowski,122,12
+12,MAŁOPOLSKIE,3,Szkoła podstawowa,9,ormiański,4,1
+12,MAŁOPOLSKIE,3,Szkoła podstawowa,10,słowacki,201,7
+12,MAŁOPOLSKIE,3,Szkoła podstawowa,11,ukraiński,40,4
+12,MAŁOPOLSKIE,14,Liceum ogólnokształcące,7,łemkowski,8,1
+12,MAŁOPOLSKIE,14,Liceum ogólnokształcące,11,ukraiński,2,1
+12,MAŁOPOLSKIE,16,Technikum,7,łemkowski,3,1
+14,MAZOWIECKIE,1,Przedszkole,11,ukraiński,55,5
+14,MAZOWIECKIE,3,Szkoła podstawowa,1,białoruski,14,1
+14,MAZOWIECKIE,3,Szkoła podstawowa,4,hebrajski,143,1
+14,MAZOWIECKIE,3,Szkoła podstawowa,8,niemiecki,40,1
+14,MAZOWIECKIE,3,Szkoła podstawowa,9,ormiański,10,1
+14,MAZOWIECKIE,3,Szkoła podstawowa,11,ukraiński,89,3
+14,MAZOWIECKIE,3,Szkoła podstawowa,12,rosyjski,16,1
+14,MAZOWIECKIE,14,Liceum ogólnokształcące,4,hebrajski,70,1
+14,MAZOWIECKIE,14,Liceum ogólnokształcące,11,ukraiński,21,2
+16,OPOLSKIE,1,Przedszkole,8,niemiecki,5989,105
+16,OPOLSKIE,3,Szkoła podstawowa,8,niemiecki,26251,242
+16,OPOLSKIE,14,Liceum ogólnokształcące,8,niemiecki,3,1
+16,OPOLSKIE,16,Technikum,8,niemiecki,37,1
+18,PODKARPACKIE,1,Przedszkole,8,niemiecki,45,1
+18,PODKARPACKIE,1,Przedszkole,11,ukraiński,61,2
+18,PODKARPACKIE,3,Szkoła podstawowa,11,ukraiński,231,11
+18,PODKARPACKIE,14,Liceum ogólnokształcące,11,ukraiński,31,1
+20,PODLASKIE,1,Przedszkole,1,białoruski,172,3
+20,PODLASKIE,1,Przedszkole,6,litewski,144,3
+20,PODLASKIE,1,Przedszkole,11,ukraiński,188,3
+20,PODLASKIE,3,Szkoła podstawowa,1,białoruski,1460,24
+20,PODLASKIE,3,Szkoła podstawowa,6,litewski,359,8
+20,PODLASKIE,3,Szkoła podstawowa,11,ukraiński,193,4
+20,PODLASKIE,14,Liceum ogólnokształcące,1,białoruski,356,3
+20,PODLASKIE,14,Liceum ogólnokształcące,6,litewski,91,2
+22,POMORSKIE,1,Przedszkole,5,kaszubski,337,7
+22,POMORSKIE,3,Szkoła podstawowa,5,kaszubski,22935,335
+22,POMORSKIE,3,Szkoła podstawowa,8,niemiecki,4579,45
+22,POMORSKIE,3,Szkoła podstawowa,9,ormiański,27,1
+22,POMORSKIE,3,Szkoła podstawowa,11,ukraiński,159,10
+22,POMORSKIE,3,Szkoła podstawowa,12,rosyjski,22,1
+22,POMORSKIE,14,Liceum ogólnokształcące,5,kaszubski,597,21
+22,POMORSKIE,14,Liceum ogólnokształcące,8,niemiecki,30,1
+22,POMORSKIE,14,Liceum ogólnokształcące,11,ukraiński,7,2
+22,POMORSKIE,16,Technikum,5,kaszubski,363,11
+22,POMORSKIE,16,Technikum,11,ukraiński,6,1
+22,POMORSKIE,93,Branżowa szkoła I stopnia,5,kaszubski,251,11
+22,POMORSKIE,93,Branżowa szkoła I stopnia,11,ukraiński,13,1
+24,ŚLĄSKIE,1,Przedszkole,8,niemiecki,873,20
+24,ŚLĄSKIE,3,Szkoła podstawowa,2,czeski,41,1
+24,ŚLĄSKIE,3,Szkoła podstawowa,8,niemiecki,23670,249
+24,ŚLĄSKIE,3,Szkoła podstawowa,12,rosyjski,6,1
+26,ŚWIĘTOKRZYSKIE,3,Szkoła podstawowa,8,niemiecki,14,1
+28,WARMIŃSKO-MAZURSKIE,1,Przedszkole,8,niemiecki,16,1
+28,WARMIŃSKO-MAZURSKIE,1,Przedszkole,11,ukraiński,14,1
+28,WARMIŃSKO-MAZURSKIE,3,Szkoła podstawowa,8,niemiecki,1973,39
+28,WARMIŃSKO-MAZURSKIE,3,Szkoła podstawowa,11,ukraiński,634,36
+28,WARMIŃSKO-MAZURSKIE,14,Liceum ogólnokształcące,11,ukraiński,54,1
+30,WIELKOPOLSKIE,1,Przedszkole,8,niemiecki,6,1
+30,WIELKOPOLSKIE,1,Przedszkole,11,ukraiński,104,1
+30,WIELKOPOLSKIE,3,Szkoła podstawowa,8,niemiecki,2,1
+30,WIELKOPOLSKIE,3,Szkoła podstawowa,11,ukraiński,18,2
+32,ZACHODNIOPOMORSKIE,3,Szkoła podstawowa,1,białoruski,1,1
+32,ZACHODNIOPOMORSKIE,3,Szkoła podstawowa,8,niemiecki,258,7
+32,ZACHODNIOPOMORSKIE,3,Szkoła podstawowa,11,ukraiński,168,8
+32,ZACHODNIOPOMORSKIE,14,Liceum ogólnokształcące,11,ukraiński,6,1
